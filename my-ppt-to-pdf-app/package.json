@@ -4,7 +4,7 @@
   "description": "PPTX to PDF converter app",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app-pptxtopdf"
   },
   "dependencies": {
     "express": "^4.18.2",
